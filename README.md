@@ -1,9 +1,12 @@
 # had-read-assets
 
+http://had-read.com
+http://railsrumble.com/entries/232-had-read
+
 
 ### voodoo monkey priest SVG
 
-http://railsrumble.com/entries/232-had-read
+https://openclipart.org/detail/232001/voodoo-monkey-priest
 
 svg source is combination of SVG graphics below editted via Ubuntu Inkscape
 
