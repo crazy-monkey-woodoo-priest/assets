@@ -3,6 +3,8 @@
 
 ### voodoo monkey priest SVG
 
+http://railsrumble.com/entries/232-had-read
+
 svg source is combination of SVG graphics below editted via Ubuntu Inkscape
 
 * https://openclipart.org/detail/22291/cartoon-monkey
