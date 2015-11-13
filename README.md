@@ -1,3 +1,5 @@
+![Gitten](http://gittens.r15.railsrumble.com//badge/jeremyw/stamp)
+
 # had-read-assets
 
 http://had-read.com
