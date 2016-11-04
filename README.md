@@ -1,6 +1,7 @@
 ![Gitten](http://gittens.r15.railsrumble.com//badge/jeremyw/stamp)
 
-# had-read-assets
+# Crazy Monkey Woodoo Priest Assets
+
 
 http://had-read.com
 http://railsrumble.com/entries/232-had-read
